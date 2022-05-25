@@ -1,5 +1,5 @@
 # EcommerceSiteWeb
-
+This is a mainly Spring-Boot Back-end Project Angular is just for testing.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.29.
 
 ## Development server
